@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Practice</title>
+  <link rel="stylesheet" href="./style.css"/>
+</head>
+<body>
+<header class="top">
+  <a href="/" class="back">← Back</a>
+  <h1 id="p-title"></h1>
+  <div style="flex:1"></div>
+  <a href="/history.html" class="small" style="text-decoration:none;background:#0f1530;border:1px solid rgba(255,255,255,.12)">History</a>
+</header>
+
+<main class="grid">
+  <section class="card">
+    <h2>Today’s Lesson</h2>
+    <div id="result"></div>
+    <div id="task"></div>
+    <div class="row">
+      <button id="btn-better" class="small">Improve</button>
+      <button id="btn-next" class="small">Next</button>
+    </div>
+  </section>
+
+  <section class="card chat-panel">
+    <div class="chat-header">
+      <div class="chat-title">
+        <span class="chatbot-badge">Tutor</span>
+        <span>Lesson Assistant</span>
+      </div>
+      <div class="chat-status" id="chat-status">online</div>
+    </div>
+
+    <div id="chat" class="chat-box" role="log" aria-live="polite"></div>
+
+    <div id="chat-typing" class="typing hidden" aria-hidden="true">
+      <div class="avatar ai">AI</div>
+      <div class="dots"><span></span><span></span><span></span></div>
+    </div>
+
+    <div class="chat-actions">
+      <button class="pill" data-quick="hint">Hint</button>
+      <button class="pill" data-quick="explain">Explain</button>
+      <button class="pill" data-quick="example">Example</button>
+      <button class="pill" data-quick="simplify">Simplify</button>
+    </div>
+
+    <div class="chat-input">
+      <textarea id="chat-text" rows="2" placeholder="Ask about this lesson… (Shift+Enter for newline)"></textarea>
+      <button id="chat-send" class="send-btn">Send</button>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Grass</h2>
+    <div id="grass"></div>
+  </section>
+
+    <section class="card">
+    <h2>Today’s Items</h2>
+    <div id="today-list" class="today-list"></div>
+  </section>
+  
+</main>
+
+<script type="module" src="./practice.js"></script>
+</body>
+</html>

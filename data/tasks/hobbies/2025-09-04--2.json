@@ -1,0 +1,20 @@
+{
+  "id": "9gv64wjuhq8",
+  "date": "2025-09-04",
+  "practice": "hobbies",
+  "title": "Hobbies — Ukulele + Rubik's Cube — 2025-09-04",
+  "steps": [
+    {
+      "label": "Read the brief"
+    },
+    {
+      "label": "Do the 2-minute task"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "checkbox"
+  },
+  "status": "pending",
+  "score": 0
+}

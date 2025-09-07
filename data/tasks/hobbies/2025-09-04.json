@@ -1,0 +1,27 @@
+{
+  "id": "uqtjhl3zsn",
+  "date": "2025-09-04",
+  "practice": "hobbies",
+  "title": "Minutes Drill",
+  "steps": [
+    {
+      "label": "Ukulele tuning"
+    },
+    {
+      "label": "Chords practice"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "minutes",
+    "baseline": 10
+  },
+  "status": "done",
+  "score": 2,
+  "proof": {
+    "type": "minutes",
+    "payload": {
+      "minutes": 10
+    }
+  }
+}

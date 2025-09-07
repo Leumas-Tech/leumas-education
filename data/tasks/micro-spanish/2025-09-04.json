@@ -1,0 +1,40 @@
+{
+  "id": "vy8mgoqbk2a",
+  "date": "2025-09-04",
+  "practice": "micro-spanish",
+  "title": "Topic Greetings",
+  "steps": [
+    {
+      "label": "What is the scientific term for a greeting that involves the use of chemical signals?"
+    },
+    {
+      "label": "Olfaction-based greetings involve detecting pheromones released by others."
+    },
+    {
+      "label": "Chemical cues can be used to signal friendliness or aggression."
+    }
+  ],
+  "quiz": {
+    "q": "What is the primary function of pheromones in greetings?",
+    "options": [
+      "To signal aggression",
+      "To detect friendliness",
+      "To communicate reproductive status"
+    ],
+    "answerIndex": 2
+  },
+  "acceptance": {
+    "type": "problem",
+    "minScore": 0.7,
+    "kind": "concept",
+    "prompt": "Answer the concept check in clear sentences."
+  },
+  "status": "pending",
+  "score": 0,
+  "brief": "Quick concept refresh. Read the brief, answer the check-for-understanding question, and you’re done.",
+  "exercise": {
+    "title": "Concept check — greetings",
+    "instructions": "Explain in 2-3 sentences: What determines an atom’s element identity, and how do electrons influence chemical behavior?",
+    "answerKey": "Proton count defines the element; valence electrons drive bonding/reactivity."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "9q8eblhhuqf",
+  "date": "2025-09-04",
+  "practice": "study-js-math",
+  "title": "Study — JavaScript + Mathematics — 2025-09-04",
+  "brief": "Today we’ll warm up on arrays, loops, algebra, calculus. Read the brief, then do the 2-minute task to prove understanding.",
+  "exercise": {
+    "title": "Two-minute task",
+    "instructions": "Solve this tiny prompt using today’s concept.",
+    "starterCode": "// write your function here",
+    "answerKey": "A short outline that matches the concept."
+  },
+  "steps": [
+    {
+      "label": "Read the brief"
+    },
+    {
+      "label": "Do the 2-minute task"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "problem",
+    "minScore": 0.7,
+    "kind": "code",
+    "prompt": "Solve the two-minute task above."
+  },
+  "status": "pending",
+  "score": 0
+}

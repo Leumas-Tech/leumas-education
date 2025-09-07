@@ -1,0 +1,48 @@
+{
+  "id": "j638s6je2gp",
+  "date": "2025-09-04",
+  "practice": "hobbies",
+  "title": "Micro-Focus Drill Variant #6",
+  "brief": "Focus on precise finger placement and hand positioning for optimal performance.",
+  "exercise": null,
+  "steps": [
+    {
+      "label": "Step 1: Warm-up",
+      "code": ""
+    },
+    {
+      "label": "Step 2: Focus on Thumb Placement",
+      "code": "Practice placing thumb exactly at center of Rubik's Cube"
+    },
+    {
+      "label": "Step 3: Practice Rotational Finger Movement",
+      "code": "Rotate pinky finger by 90 degrees while maintaining thumb placement"
+    },
+    {
+      "label": "Step 4: Introduce Index Finger Rotation",
+      "code": "Rotate index finger while keeping thumb and pinky fingers in place"
+    },
+    {
+      "label": "Step 5: Combine Fingers",
+      "code": "Combine rotations of all four fingers to solve small portions of the cube"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "minutes",
+    "baseline": 10
+  },
+  "status": "done",
+  "score": 2,
+  "attempts": [
+    {
+      "ts": 1757031373472,
+      "type": "minutes",
+      "payload": {
+        "minutes": 10
+      },
+      "score": 2,
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "z09qb2pjoln",
+  "date": "2025-09-04",
+  "practice": "fitness",
+  "title": "Daily Workout",
+  "steps": [
+    {
+      "label": "Warm-up Yoga (2)",
+      "code": ""
+    },
+    {
+      "label": "Downward-Facing Dog (30)",
+      "code": ""
+    },
+    {
+      "label": "Plank Pose (30)",
+      "code": ""
+    },
+    {
+      "label": "Bicep Curls (3 sets of 10 reps)",
+      "code": "set1: push(100); set2: push(100); set3: push(100)"
+    },
+    {
+      "label": "Tricep Dips (3 sets of 10 reps)",
+      "code": "set1: pull(100); set2: pull(100); set3: pull(100)"
+    },
+    {
+      "label": "Cool Down Stretching (5)",
+      "code": ""
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "minutes",
+    "baseline": 20
+  },
+  "status": "pending",
+  "score": 0,
+  "brief": "Short yoga + strength sequence. Move safely and focus on form.",
+  "exercise": null,
+  "attempts": []
+}

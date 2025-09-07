@@ -1,0 +1,34 @@
+{
+  "practices": [
+    {
+      "slug": "fitness",
+      "title": "Fitness — Yoga + Muscle",
+      "kind": "fitness",
+      "config": { "yogaMinutes": 10, "muscleMinutes": 10 }
+    },
+    {
+      "slug": "study-js-math",
+      "title": "Study — JavaScript + Mathematics",
+      "kind": "study",
+      "config": { "topics": ["arrays", "loops", "algebra"] }
+    },
+    {
+      "slug": "religion-bible",
+      "title": "Religion — Bible Study",
+      "kind": "religion",
+      "config": { "plan": "Luke->John->Acts", "reflectionMinWords": 40 }
+    },
+    {
+      "slug": "micro-chem",
+      "title": "Micro Study — Chemistry",
+      "kind": "micro",
+      "config": { "syllabus": ["atoms", "bonds", "stoichiometry", "acids-bases"] }
+    },
+    {
+      "slug": "hobbies",
+      "title": "Hobbies — Ukulele + Rubik's Cube",
+      "kind": "hobby",
+      "config": { "minutes": 10 }
+    }
+  ]
+}

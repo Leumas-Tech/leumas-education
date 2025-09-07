@@ -1,0 +1,46 @@
+{
+  "id": "yr0mgvtsw6",
+  "date": "2025-09-04",
+  "practice": "study-js-math",
+  "title": "Array Operations and Algebra Review",
+  "brief": "This lesson reviews arrays, loops, algebra, and calculus. You'll practice manipulating arrays using loops and learn how to solve simple algebraic equations.",
+  "exercise": {
+    "title": "Array Length",
+    "instructions": [
+      "Find the length of an array",
+      "Use the `length` property or a `for` loop"
+    ],
+    "starterCode": "var arr = [1, 2, 3];\n// your code here\n",
+    "answerKey": "arr.length"
+  },
+  "steps": [
+    {
+      "label": "Step 1: Define an array"
+    },
+    {
+      "label": "[object Object]",
+      "code": "var arr = [1, 2, 3];"
+    },
+    {
+      "label": "Step 2: Find the length of the array"
+    },
+    {
+      "label": "[object Object]",
+      "code": "for (var i = 0; i < arr.length; i++) { console.log(arr[i]); }"
+    },
+    {
+      "label": "Step 3: Use the `length` property"
+    },
+    {
+      "label": "[object Object]",
+      "code": "console.log(arr.length); // 3"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "minutes",
+    "baseline": 30
+  },
+  "status": "pending",
+  "score": 0
+}

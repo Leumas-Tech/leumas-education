@@ -1,0 +1,35 @@
+{
+  "id": "7768yvq9vii",
+  "date": "2025-09-04",
+  "practice": "fitness",
+  "title": "Morning Fitness Routine",
+  "steps": [
+    {
+      "label": "Warm-up Yoga (10 minutes)",
+      "code": ""
+    },
+    {
+      "label": "Leg Raises (30 seconds)",
+      "code": "push-ups: 15"
+    },
+    {
+      "label": "Bicep Curls (20 reps)",
+      "code": "dumbbell_bicep_curl: 2 * 10"
+    },
+    {
+      "label": "Shoulder Press (20 reps)",
+      "code": "dumbbell_shoulder_press: 2 * 10"
+    },
+    {
+      "label": "Cool-down Yoga (5 minutes)",
+      "code": ""
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "minutes",
+    "baseline": 30
+  },
+  "status": "pending",
+  "score": 0
+}
