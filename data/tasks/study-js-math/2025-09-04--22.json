@@ -1,0 +1,55 @@
+{
+  "id": "ym8tm0hhmc",
+  "date": "2025-09-04",
+  "practice": "study-js-math",
+  "title": "Array Multiplication",
+  "brief": "Practice using loops to multiply all elements in an array together.",
+  "exercise": {
+    "title": "Multiplying Array Elements",
+    "instructions": "Create a function that takes an array as input and returns the product of its elements. Use a for loop to iterate over the array and the multiplication operator (*).",
+    "starterCode": "function multiplyArray(arr) {\n  var result = \n}",
+    "answerKey": "return arr.reduce((a, b) => a * b, 1)"
+  },
+  "steps": [
+    {
+      "label": "Define your function"
+    },
+    {
+      "label": "Iterate over the array using a for loop"
+    },
+    {
+      "label": "Use the multiplication operator (*) to multiply elements together"
+    },
+    {
+      "label": "Reduce the array to a single product"
+    },
+    {
+      "label": "Return the final result"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "problem",
+    "minScore": 0.7,
+    "kind": "code",
+    "prompt": "Create a function that takes an array as input and returns the product of its elements. Use a for loop to iterate over the array and the multiplication operator (*)."
+  },
+  "status": "failed",
+  "score": 0,
+  "attempts": [
+    {
+      "ts": 1757030250245,
+      "type": "problem",
+      "payload": {
+        "answer": "function product(arr){\nlet product = 1;\n\nfor (let num of arr){\nproduct = product * num\n}\nreturn product\n}\n\nconsole.log(product([1,2,3]))"
+      },
+      "auto": {
+        "score": 0,
+        "feedback": "Correct! Your function uses a for loop and the multiplication operator to calculate the product of array elements.",
+        "solution": "function product(arr){\nlet product = 1;\nfor (let num of arr){\nproduct = product * num\n}\nreturn product"
+      },
+      "passed": false
+    }
+  ],
+  "solution": "function product(arr){\nlet product = 1;\nfor (let num of arr){\nproduct = product * num\n}\nreturn product"
+}

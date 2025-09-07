@@ -1,0 +1,47 @@
+{
+  "id": "qrxb8lwjnjg",
+  "date": "2025-09-04",
+  "practice": "micro-chem",
+  "title": "Atoms",
+  "steps": [
+    {
+      "label": "Definition",
+      "code": ""
+    },
+    {
+      "label": "Components",
+      "code": ""
+    },
+    {
+      "label": "Role of Protons/Neutrons/Electrons",
+      "code": ""
+    }
+  ],
+  "quiz": {
+    "q": "Which element has the atomic number 6?",
+    "options": [
+      "Carbon",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "answerIndex": 1
+  },
+  "acceptance": {
+    "type": "problem",
+    "minScore": 0.7,
+    "kind": "concept",
+    "prompt": "What is the primary function of protons in an atom?"
+  },
+  "status": "done",
+  "score": 2,
+  "proof": {
+    "type": "problem",
+    "payload": {
+      "answer": "To give atoms positive charge which will attract electrons to the atom. so that the atoms can form chemical bonds with other atoms",
+      "auto": {
+        "score": 0.7,
+        "feedback": "Correctly identified the role of protons in attracting electrons to form chemical bonds, but could have provided more clarity on why this happens. The statement also implies that neutrons are not present, which is incorrect."
+      }
+    }
+  }
+}

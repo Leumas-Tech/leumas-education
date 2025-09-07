@@ -1,0 +1,20 @@
+{
+  "id": "y67x2h0pdm9",
+  "date": "2025-09-04",
+  "practice": "study-js-math",
+  "title": "Connecting Concepts",
+  "steps": [
+    {
+      "label": "Arrays and Algebra"
+    },
+    {
+      "label": "Loops and Calculus"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "checkbox"
+  },
+  "status": "pending",
+  "score": 0
+}

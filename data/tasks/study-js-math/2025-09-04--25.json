@@ -1,0 +1,46 @@
+{
+  "id": "vcgkq2s4top",
+  "date": "2025-09-04",
+  "practice": "study-js-math",
+  "title": "Study — JavaScript + Mathematics — 2025-09-04",
+  "brief": "Warm up on today’s topic. Read the brief, then solve the 2-minute task.",
+  "exercise": {
+    "title": "Two-minute arrays task",
+    "instructions": "Write a function sum(arr) that returns the sum of numbers; [] -> 0.",
+    "starterCode": "function sum(arr){\n  // your code\n}\nconsole.log(sum([1,2,3])); // 6",
+    "answerKey": "Use reduce or loop; return 0 for empty array."
+  },
+  "steps": [
+    {
+      "label": "Read the brief"
+    },
+    {
+      "label": "Do the 2-minute task"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "problem",
+    "minScore": 0.7,
+    "kind": "code",
+    "prompt": "Write a function sum(arr) that returns the sum of numbers; [] -> 0."
+  },
+  "status": "done",
+  "score": 2,
+  "attempts": [
+    {
+      "ts": 1757042535778,
+      "type": "problem",
+      "payload": {
+        "answer": "function sum(arr) {\n    let total = 0; // Fix: Initialize total as a local variable\n    for (let num of arr) {\n        total += num;\n    }\n    if (total === 0) {\n        return 0;\n    } else {\n        return total;\n    }\n}\nconsole.log(sum([1,2,3]));"
+      },
+      "auto": {
+        "score": 0.7,
+        "feedback": "Correctly calculates the sum of numbers in an array, but can be optimized by initializing total as a local variable and returning it immediately after the loop.",
+        "solution": "function sum(arr) {\n  let sum = 0;\n  for (let num of arr) {\n    sum += num;\n  }\n  return sum;\n}\nconsole.log(sum([1,2,3])); // 6"
+      },
+      "passed": true
+    }
+  ],
+  "solution": "function sum(arr) {\n  let sum = 0;\n  for (let num of arr) {\n    sum += num;\n  }\n  return sum;\n}\nconsole.log(sum([1,2,3])); // 6"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "8l2nklimn9b",
+  "date": "2025-09-04",
+  "practice": "fitness",
+  "title": "Daily Yoga + Muscle Micro-Workout for William Samuel Bermudez on 2025-09-04",
+  "steps": [
+    {
+      "label": "Warm-Up (2 minutes)",
+      "code": ""
+    },
+    {
+      "label": "Yoga (10 minutes, baseline:20)",
+      "code": ""
+    },
+    {
+      "label": "Strength Training (5 minutes)",
+      "code": ""
+    },
+    {
+      "label": "Focus on Core Strength (3 sets of 10 reps, baseline:10)",
+      "code": ""
+    },
+    {
+      "label": "Stretching and Cool Down (2 minutes)",
+      "code": ""
+    },
+    {
+      "label": "Hydration Check-In",
+      "code": ""
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "minutes",
+    "baseline": 30
+  },
+  "status": "done",
+  "score": 2,
+  "proof": {
+    "type": "minutes",
+    "payload": {
+      "minutes": 30
+    }
+  }
+}

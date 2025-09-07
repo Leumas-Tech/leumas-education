@@ -1,0 +1,36 @@
+{
+  "id": "nnx1egdpztj",
+  "date": "2025-09-04",
+  "practice": "micro-chem",
+  "title": "Atoms",
+  "steps": [
+    {
+      "label": "Step 1: Understand atomic notation",
+      "code": ""
+    },
+    {
+      "label": "Step 2: Calculate atomic mass",
+      "code": ""
+    },
+    {
+      "label": "Step 3: Apply the formula",
+      "code": ""
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "problem",
+    "minScore": 0.7,
+    "kind": "concept",
+    "prompt": "Answer the concept check in clear sentences."
+  },
+  "status": "pending",
+  "score": 0,
+  "brief": "Quick concept refresh. Read the brief, answer the check-for-understanding question, and you’re done.",
+  "exercise": {
+    "title": "Concept check — atoms",
+    "instructions": "Explain in 2-3 sentences: What determines an atom’s element identity, and how do electrons influence chemical behavior?",
+    "answerKey": "Proton count defines the element; valence electrons drive bonding/reactivity."
+  },
+  "attempts": []
+}

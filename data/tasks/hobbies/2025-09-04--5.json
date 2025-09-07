@@ -1,0 +1,50 @@
+{
+  "id": "uwh1zeu2jer",
+  "date": "2025-09-04",
+  "practice": "hobbies",
+  "title": "Micro-Focus Drill Variant #5",
+  "brief": "Practice your focus with a unique micro-drill.",
+  "exercise": {
+    "title": "Focus on the Cube's Center"
+  },
+  "steps": [
+    {
+      "label": "Step 1: Focus",
+      "code": "Rubik's Cube Drill"
+    },
+    {
+      "label": "Step 2: Scan Horizontal",
+      "code": "Scan the top surface horizontally, finding an edge piece."
+    },
+    {
+      "label": "Step 3: Find a Corner Piece",
+      "code": "Look for a corner piece that matches one of your fingers."
+    },
+    {
+      "label": "Step 4: Orient and Permute",
+      "code": "Orient the cube so the found corner is on top, then permutate to find its correct position."
+    },
+    {
+      "label": "Step 5: Repeat Process",
+      "code": "Repeat steps 2-4 until you have completed one layer of the cube."
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "minutes",
+    "baseline": 10
+  },
+  "status": "done",
+  "score": 2,
+  "attempts": [
+    {
+      "ts": 1757031286153,
+      "type": "minutes",
+      "payload": {
+        "minutes": 10
+      },
+      "score": 2,
+      "passed": true
+    }
+  ]
+}

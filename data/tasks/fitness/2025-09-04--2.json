@@ -1,0 +1,33 @@
+{
+  "id": "jmgqhsczlta",
+  "date": "2025-09-04",
+  "practice": "fitness",
+  "title": "Morning Workout",
+  "steps": [
+    {
+      "label": "Warm-up Yoga (10 minutes)"
+    },
+    {
+      "label": "Mountain Pose (30 seconds)"
+    },
+    {
+      "label": "Squats (3 sets of 12 reps, 30 seconds rest between sets)"
+    },
+    {
+      "label": "Lunges (3 sets of 12 reps per leg, 30 seconds rest between sets)"
+    },
+    {
+      "label": "Push-ups (3 sets of 12 reps, 30 seconds rest between sets)"
+    },
+    {
+      "label": "Cool Down Yoga (5 minutes)"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "checkbox",
+    "baseline": 7
+  },
+  "status": "pending",
+  "score": 0
+}

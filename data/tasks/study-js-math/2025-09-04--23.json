@@ -1,0 +1,55 @@
+{
+  "id": "2vbo83hobv5",
+  "date": "2025-09-04",
+  "practice": "study-js-math",
+  "title": "Finding Maximum Value in Array",
+  "brief": "Practice using loops to iterate over arrays and compare values.",
+  "exercise": {
+    "title": "maxValueInArray",
+    "instructions": "Take an array of numbers as input and return the maximum value. Use a for loop or a method like Math.max() if available.",
+    "starterCode": "function maxValueInArray(arr) {\n"
+  },
+  "steps": [
+    {
+      "label": "Step 1: Initialize max variable",
+      "code": "let max = arr[0];"
+    },
+    {
+      "label": "Step 2: Iterate over array using for loop",
+      "code": "for (let i = 1; i < arr.length; i++) {\n"
+    },
+    {
+      "label": "Step 3: Compare current value with max and update if necessary",
+      "code": "if (arr[i] > max) {\n"
+    },
+    {
+      "label": "Step 4: Return maximum value after iterating over array",
+      "code": "max = arr[i];\n}"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "problem",
+    "minScore": 0.7,
+    "kind": "code",
+    "prompt": "Take an array of numbers as input and return the maximum value. Use a for loop or a method like Math.max() if available."
+  },
+  "status": "failed",
+  "score": 0,
+  "attempts": [
+    {
+      "ts": 1757031746640,
+      "type": "problem",
+      "payload": {
+        "answer": "function baananas() {\nconsole.log(\"Tell me why i am wrong\")\n}"
+      },
+      "auto": {
+        "score": 0,
+        "feedback": "Could not parse.",
+        "solution": ""
+      },
+      "passed": false
+    }
+  ],
+  "solution": ""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "is77xasytj",
+  "date": "2025-09-04",
+  "practice": "religion-bible",
+  "title": "Jesus Prepares His Disciples",
+  "brief": "Today's reading covers Jesus' final days with his disciples before his arrest and resurrection.",
+  "exercise": null,
+  "steps": [
+    {
+      "label": "Analyze Jesus' teaching style in John 13:1-30",
+      "code": ""
+    },
+    {
+      "label": "Discuss the significance of the Last Supper (John 13:1-30)",
+      "code": ""
+    },
+    {
+      "label": "Explain Peter's denial (Matthew 26:69-75, Mark 14:66-72)",
+      "code": ""
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "text",
+    "minWords": 40
+  },
+  "status": "pending",
+  "score": 0,
+  "attempts": []
+}

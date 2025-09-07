@@ -1,0 +1,23 @@
+{
+  "id": "vt97lh7itng",
+  "date": "2025-09-04",
+  "practice": "study-js-math",
+  "title": "Study — JavaScript + Mathematics — 2025-09-04",
+  "steps": [
+    {
+      "label": "Read the brief"
+    },
+    {
+      "label": "Do the 2-minute task"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "problem",
+    "minScore": 0.7,
+    "kind": "code",
+    "prompt": "Solve the two-minute task above."
+  },
+  "status": "pending",
+  "score": 0
+}

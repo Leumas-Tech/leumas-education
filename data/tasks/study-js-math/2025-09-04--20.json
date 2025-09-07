@@ -1,0 +1,42 @@
+{
+  "id": "jcsa3rulzz8",
+  "date": "2025-09-04",
+  "practice": "study-js-math",
+  "title": "Array Filtering and Summation",
+  "brief": "Learn how to use the filter() method and reduce() function to solve this problem.",
+  "exercise": {
+    "title": "Filtering and Summing",
+    "instructions": "Write a JavaScript function that takes an array of numbers and a threshold as arguments, then returns the sum of all elements greater than the threshold.",
+    "starterCode": "[...].reduce((acc, val) => acc + (val > threshold ? val : 0), 0)\nlet arr = [1, 2, 3, 4, 5];\nelim = 3;\n"
+  },
+  "steps": [
+    {
+      "label": "Step 1: Define the problem and parameters",
+      "code": ""
+    },
+    {
+      "label": "Step 2: Use the filter() method to get elements greater than the threshold",
+      "code": ""
+    },
+    {
+      "label": "Step 3: Use the reduce() function to sum up the filtered elements",
+      "code": ""
+    },
+    {
+      "label": "Step 4: Handle edge cases and ensure correct output",
+      "code": ""
+    },
+    {
+      "label": "Step 5: Test your solution with different inputs",
+      "code": ""
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "minutes",
+    "baseline": 3
+  },
+  "status": "pending",
+  "score": 0,
+  "attempts": []
+}

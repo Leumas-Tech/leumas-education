@@ -1,0 +1,40 @@
+{
+  "id": "mrgwjqi6p2",
+  "date": "2025-09-04",
+  "practice": "study-js-math",
+  "title": "Study — JavaScript + Mathematics — 2025-09-04",
+  "brief": "Today we’ll warm up on arrays, loops, algebra. Read the brief, then do the 2-minute task.",
+  "exercise": {
+    "title": "Two-minute arrays task",
+    "instructions": "Write a JavaScript function `sum` that returns the sum of all numbers in an array. If the array is empty, return 0.",
+    "starterCode": "// sum([1,2,3]) -> 6\nfunction sum(arr) {\n  // your code\n}\nconsole.log(sum([1,2,3])); // 6",
+    "answerKey": "Loop or reduce. Return 0 for []."
+  },
+  "steps": [
+    {
+      "label": "Read the brief"
+    },
+    {
+      "label": "Do the 2-minute task"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "problem",
+    "minScore": 0.7,
+    "kind": "code",
+    "prompt": "Provide a working JS solution for the sum(arr) task."
+  },
+  "status": "done",
+  "score": 4,
+  "proof": {
+    "type": "problem",
+    "payload": {
+      "answer": "// sum([1,2,3]) -> 6\nfunction sum(arr) {\nlet total = 0;\n for(let num of arr){\ntotal += num\n}\nreturn total\n}\nconsole.log(sum([1,2,3])); // 6",
+      "auto": {
+        "score": 1,
+        "feedback": "The solution is correct and well-structured. It correctly calculates the sum of all numbers in an array using a simple loop."
+      }
+    }
+  }
+}

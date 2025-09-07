@@ -1,0 +1,20 @@
+{
+  "id": "cnk8ik7oq67",
+  "date": "2025-09-04",
+  "practice": "micro-chem",
+  "title": "Micro Study — Chemistry — 2025-09-04",
+  "steps": [
+    {
+      "label": "Read the brief"
+    },
+    {
+      "label": "Do the 2-minute task"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "checkbox"
+  },
+  "status": "pending",
+  "score": 0
+}

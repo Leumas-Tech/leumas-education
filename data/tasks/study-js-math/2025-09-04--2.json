@@ -1,0 +1,26 @@
+{
+  "id": "f70ggl2yvz5",
+  "date": "2025-09-04",
+  "practice": "study-js-math",
+  "title": "Study — JavaScript + Mathematics — 2025-09-04",
+  "steps": [
+    {
+      "label": "Read the brief"
+    },
+    {
+      "label": "Do the 2-minute task"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "checkbox"
+  },
+  "status": "done",
+  "score": 1,
+  "proof": {
+    "type": "checkbox",
+    "payload": {
+      "checked": true
+    }
+  }
+}

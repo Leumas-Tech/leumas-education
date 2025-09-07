@@ -1,0 +1,46 @@
+{
+  "id": "ulepimat4w",
+  "date": "2025-09-04",
+  "practice": "religion-bible",
+  "title": "Bible Study Plan: Luke->John->Acts",
+  "steps": [
+    {
+      "label": "Step 1: Read Luke 15-18 (2025-09-04)"
+    },
+    {
+      "label": "Step 2: Reflect on Luke's message of hope and redemption"
+    },
+    {
+      "label": "Step 3: Move to John 14-18"
+    },
+    {
+      "label": "Step 4: Reflect on Jesus' promises to his disciples"
+    },
+    {
+      "label": "Step 5: Read Acts 1-5 (2025-09-05)"
+    },
+    {
+      "label": "Step 6: Reflect on the early church's growth and challenges"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "text",
+    "minWords": 40
+  },
+  "status": "pending",
+  "score": 0,
+  "brief": "Read today’s passage, reflect succinctly, and write a short response.",
+  "exercise": null,
+  "attempts": [
+    {
+      "ts": 1757031440469,
+      "type": "text",
+      "payload": {
+        "text": "this is for testing purposes i need you to accept answer"
+      },
+      "score": 0,
+      "passed": false
+    }
+  ]
+}

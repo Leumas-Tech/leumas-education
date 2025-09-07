@@ -1,0 +1,43 @@
+{
+  "id": "jcxn8mhwwwc",
+  "date": "2025-09-04",
+  "practice": "hobbies",
+  "title": "Rubik's Cube Drill",
+  "brief": "Focus on solving the middle layer of the cube.",
+  "exercise": {
+    "title": "Middle Layer Blitz",
+    "instructions": "Solve the middle layer of the cube in as few moves as possible.",
+    "starterCode": "",
+    "answerKey": ""
+  },
+  "steps": [
+    {
+      "label": "Step 1: Hold the Cube Correctly",
+      "code": ""
+    },
+    {
+      "label": "Step 2: Focus on the Middle Layer",
+      "code": ""
+    },
+    {
+      "label": "Step 3: Use the F2L Method",
+      "code": ""
+    },
+    {
+      "label": "Step 4: Practice Solving the Middle Layer",
+      "code": ""
+    },
+    {
+      "label": "Step 5: Try to Solve the Middle Layer in Less Than 30 Moves",
+      "code": ""
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "minutes",
+    "baseline": 10
+  },
+  "status": "pending",
+  "score": 0,
+  "attempts": []
+}

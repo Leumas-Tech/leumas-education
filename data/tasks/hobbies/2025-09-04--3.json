@@ -1,0 +1,53 @@
+{
+  "id": "v1etxgiu7ua",
+  "date": "2025-09-04",
+  "practice": "hobbies",
+  "title": "Ukulele Drill (Minutes 10)",
+  "steps": [
+    {
+      "label": "Chord Transition",
+      "code": "G - Em - C"
+    },
+    {
+      "label": "String Skipping",
+      "code": "C#m - F - G#m"
+    },
+    {
+      "label": "Tuning Error Recovery",
+      "code": "EADGBE"
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "minutes",
+    "baseline": 10
+  },
+  "status": "done",
+  "score": 2,
+  "brief": "A tiny focused drill to build skill through repetition.",
+  "exercise": {
+    "title": "Focused drill",
+    "instructions": "Practice one drill for 10 minutes and note one improvement.",
+    "answerKey": "N/A"
+  },
+  "attempts": [
+    {
+      "ts": 1757029561200,
+      "type": "minutes",
+      "payload": {
+        "minutes": 10
+      },
+      "score": 2,
+      "passed": true
+    },
+    {
+      "ts": 1757029574266,
+      "type": "minutes",
+      "payload": {
+        "minutes": 10
+      },
+      "score": 2,
+      "passed": true
+    }
+  ]
+}

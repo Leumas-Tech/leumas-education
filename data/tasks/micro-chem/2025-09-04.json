@@ -1,0 +1,24 @@
+{
+  "id": "309siiem8zl",
+  "date": "2025-09-04",
+  "practice": "micro-chem",
+  "title": "Atoms",
+  "steps": [
+    {
+      "label": "What is an atom?"
+    },
+    {
+      "label": "An atom consists of protons, neutrons, and electrons."
+    },
+    {
+      "label": "Protons have a positive charge, while electrons have a negative charge."
+    }
+  ],
+  "quiz": null,
+  "acceptance": {
+    "type": "minutes",
+    "baseline": 2
+  },
+  "status": "pending",
+  "score": 0
+}
